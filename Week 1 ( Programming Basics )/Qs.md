@@ -1,36 +1,47 @@
-1. Find all factorial numbers less than or equal to n
-https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/0?problemType=functional&difficulty%5B%5D=-1&page=1&query=problemTypefunctionaldifficulty%5B%5D-1page1
+# 1. Find all factorial numbers less than or equal to n
 
-2. Prime Number
-https://www.geeksforgeeks.org/problems/prime-number2314/1
+[Link](https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/0?problemType=functional&difficulty%5B%5D=-1&page=1&query=problemTypefunctionaldifficulty%5B%5D-1page1)
 
-3. Reverse Integer
+# 2. Prime Number
+
+[Link](https://www.geeksforgeeks.org/problems/prime-number2314/1)
+
+# 3. Reverse Integer
+
 [Link](https://leetcode.com/problems/reverse-integer/description/)
 
-4. Count Digits
-https://www.geeksforgeeks.org/problems/count-digits5716/1
+# 4. Count Digits
 
-5. Palindrome Number
-https://leetcode.com/problems/palindrome-number/description/
+[Link](https://www.geeksforgeeks.org/problems/count-digits5716/1)
 
-6. LCM And GCD
-https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1
+# 5. Palindrome Number
 
-7. Armstrong Numbers
-https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1
+[Link](https://leetcode.com/problems/palindrome-number/description/)
 
-8. Add Binary
-https://leetcode.com/problems/add-binary/description/?envType=problem-list-v2&envId=math
+# 6. LCM And GCD
 
-9. Plus One
-https://leetcode.com/problems/plus-one/description/?envType=problem-list-v2&envId=math
+[Link](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
 
-10. Length of Last Word
-https://leetcode.com/problems/length-of-last-word/description/
+# 7. Armstrong Numbers
 
-11. Z Pattern
-https://www.hackerearth.com/problem/algorithm/pattern/
+[Link](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1)
 
-12. Pascal's Triangle
-https://leetcode.com/problems/pascals-triangle/description/
+# 8. Add Binary
 
+[Link](https://leetcode.com/problems/add-binary/description/?envType=problem-list-v2&envId=math)
+
+# 9. Plus One
+
+[Link](https://leetcode.com/problems/plus-one/description/?envType=problem-list-v2&envId=math)
+
+# 10. Length of Last Word
+
+[Link](https://leetcode.com/problems/length-of-last-word/description/)
+
+# 11. Z Pattern
+
+[Link](https://www.hackerearth.com/problem/algorithm/pattern/)
+
+# 12. Pascal's Triangle
+
+[Link](https://leetcode.com/problems/pascals-triangle/description/)
