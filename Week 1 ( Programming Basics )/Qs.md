@@ -5,7 +5,7 @@ https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-e
 https://www.geeksforgeeks.org/problems/prime-number2314/1
 
 3. Reverse Integer
-https://leetcode.com/problems/reverse-integer/description/
+[Link](https://leetcode.com/problems/reverse-integer/description/)
 
 4. Count Digits
 https://www.geeksforgeeks.org/problems/count-digits5716/1
