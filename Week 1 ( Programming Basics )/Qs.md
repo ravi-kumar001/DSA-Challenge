@@ -53,3 +53,11 @@
 #### 14. Fibonacci Number
 
 [Link](https://leetcode.com/problems/fibonacci-number/description/)
+
+#### 15. Happy Number
+
+[Link](https://leetcode.com/problems/happy-number/description/?envType=problem-list-v2&envId=math)
+
+#### 16. Pascal's Triangle II
+
+[Link](https://leetcode.com/problems/pascals-triangle-ii/description/?envType=problem-list-v2&envId=array)
